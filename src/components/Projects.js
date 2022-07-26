@@ -57,12 +57,12 @@ export const Projects = () => {
   ];
   const projects3 = [
     {
-      title: "Dashboard Modern Design",
+      title: "Modern Dashboard",
       description: "Dashboard Creation",
       imgUrl: projImg4,
     },
     {
-      title: "Dashboard Modern Design",
+      title: "Modern Dashboard",
       description: "Dashboard Creation",
       imgUrl: projImg41,
     },
@@ -92,7 +92,7 @@ export const Projects = () => {
                       <Nav.Link eventKey="second">Profile Website</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="third">Dashboard Modern</Nav.Link>
+                      <Nav.Link eventKey="third">Modern Dashboard</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
