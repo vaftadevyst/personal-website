@@ -1,0 +1,8 @@
+.linkto {
+    color: #fff;
+    text-decoration: none;
+}
+.linkto:hover {
+    transform: scale(1.05);
+    color: #fff;
+}
